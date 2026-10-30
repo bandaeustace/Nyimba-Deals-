@@ -1,0 +1,6 @@
+{
+  "name": "Nyimba Deals",
+  "description": "Nyimba's premier verified marketplace with instant photo capture, secure admin approvals, fast offline memory, and direct WhatsApp & Call connections.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
